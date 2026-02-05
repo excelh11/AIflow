@@ -234,4 +234,4 @@ React 앱은 `http://localhost:3000`에서 실행됩니다.
 
 
 ![결과 화면](./images/result.png)
-![실행 중 화면](./images/spin.png)
+![실행 중 화면](./images/spin.png)# AIflow
