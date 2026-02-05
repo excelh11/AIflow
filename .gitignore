@@ -58,3 +58,7 @@ Thumbs.db
 # Environment
 .env
 *.env
+
+
+application.yml
+application.properties
