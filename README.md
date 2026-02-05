@@ -21,7 +21,7 @@ AIflow/
  
 ![`sequence 디이어그램`](./images/sequence.svg)
 
-![UML 아키텍처](./images/flow.svg)
+![UML 아키텍처](./images/flow.png)
 
 **주요 컴포넌트:**
 - **React**: `App.jsx` → `handleGenerateAnswer()` → `AnswerService.generateAnswer()`
