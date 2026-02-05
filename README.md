@@ -233,5 +233,5 @@ React 앱은 `http://localhost:3000`에서 실행됩니다.
 - OpenAI API 사용 시 비용이 발생할 수 있습니다.
 
 
+![실행 중 화면](./images/spin.png)
 ![결과 화면](./images/result.png)
-![실행 중 화면](./images/spin.png)# AIflow
